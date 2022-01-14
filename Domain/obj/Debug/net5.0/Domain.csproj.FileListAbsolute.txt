@@ -1,0 +1,12 @@
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/bin/Debug/net5.0/Domain.dll
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/obj/Debug/net5.0/Domain.dll
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/cassiofelipe/Projects/RepositoryPattern.WebApi/Domain/obj/Debug/net5.0/Domain.pdb
